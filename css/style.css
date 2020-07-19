@@ -1,0 +1,33 @@
+body{margin: 0;padding: 0}
+img { max-width: 100%;}
+.banner-section{background: url(../images/ripon1.svg);
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0;
+    background-color: #191f25;
+    background-blend-mode: multiply;}
+.navbar-brand { width: 35px;}
+.nav-link {
+    color: white !important;
+}
+.left-content h1 {
+    font-size: 75px;
+  
+}
+.left-content p {
+    color: #b1b1b1;
+    font-size: 20px;
+    padding: 30px 0;
+}
+.right-content form {
+    background: white;
+    padding: 20px;
+    color: black;
+    border-radius: 5px;
+}
+
+.my-p {
+    color: gray;
+    font-size: 11px;
+}
+
